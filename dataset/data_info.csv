@@ -1,0 +1,9 @@
+type_data_id,type_data_info,row_column_info,goal_id,goal_info,model_id,model_info
+1,supervised,size of dataset,1,predict,1,linear regression
+2,unsupervised,,2,pattern,2,KNN Algorithm
+3,Image,,3,clustering,3,Naïve Bayes Classifier
+4,Reinforcement,,,,4,K-Means Clustering Algorithm
+,,,,,5,Logistic Regression
+,,,,,6,Support Vector Machine Algorithm
+,,,,,7,Random Forest Algorithm
+,,,,,8,Decision Tree

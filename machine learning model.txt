@@ -1,0 +1,51 @@
+Regression Models
+-Decision Trees
+-Random Forests
+-Linear Regression
+
+Deep Learning
+-Autoencoders
+-Boltzmann Machine
+-Convolution Nerural Networks
+-Multi Layer perception
+-Recurrent Neural Networks
+
+source: https://www.educba.com/machine-learning-models/
+
+Types of Machine Learning Models
+Classification Models
+*K-Nearest neighbors algorithm
+*Naive Bayes - Based on Bayes theorem
+*Logistic Regression
+*Support-Vector-Machine (SVM)
+
+Regression Models
+*Linear Regression
+*Lasso Regression
+*SVM Regression
+
+Clustering
+K-Means
+Agglomerative Clustering
+DBSCAN- Density-based clustering algori
+
+Dimensionality Reduction
+*PCA
+*TSNE
+*SVD
+
+Deep Learning
+*Boltzmann machine
+*Convolution Neural Networks\
+*Multi-Layer perceptron
+*Recurrent Neural Networks
+
+
+Image classification models
+*AlexNet
+*ZFNet
+*Inception v1
+*VGG-16
+*ResNet
+ResNext-10
+*PNASNet-5

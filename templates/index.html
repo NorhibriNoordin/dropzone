@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -44,6 +45,9 @@
     this: #} {#{ dropzone.config(custom_options="success: function(file,
     response){console.log(response);}") }#}
 
+    <!-- TODO limit file type to excel -->
+    <!-- TODO insert script for recognizing machine learning model -->
+
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
       integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -65,5 +69,7 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
+
+    <div class="container">{% block content %} {% endblock %}</div>
   </body>
 </html>
